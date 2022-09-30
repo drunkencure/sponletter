@@ -1,11 +1,11 @@
 <?php
-//if (!isset($_GET['t'])) {
-//    die();
-//}
-//
-//if ($_GET['t'] != 'St6v7') {
-//    die();
-//}
+if (!isset($_GET['t'])) {
+    die();
+}
+
+if ($_GET['t'] != 'St6v7') {
+    die();
+}
 ?>
 
 <!doctype html>
@@ -115,16 +115,19 @@
 			<p style="margin: 0; text-align: right; color: white; padding: 6px 10px 0 0;">2022년 8월</p>
 		</div>
 	</div>
+	<div style="margin-top: 16px; width: 100%; text-align: center; overflow: hidden;">
+		<img style="width: 100%;"
+		     src="https://photo.wspaper.org/Photo/gallery/20220824_1/3d24f7e1399705b14f8edb81fa3fd318.jpg" alt="">
+	</div>
 	<div class="text-keep-words" style="padding: 1em 5% 1em 5%;">
 		<p style="color: #DE4040; font-weight: bold;">
 			노동자연대 후원회원 여러분, 안녕하세요?</p>
 
 		<p>24년 만의 최고 물가상승으로 대중의 생활고가 심각합니다. 하이트진로 화물 노동자들이 이런 생계비 위기 상황에서 투쟁에 나섰습니다. 노동자연대는 생계비 위기 속 대중의 분노를 대변하는 하이트진로
 			화물 노동자 투쟁에 적극 연대하고 있습니다. 투쟁하는 노동자들의 목소리가 담긴 신문 ⟨노동자 연대⟩를 전국 곳곳에서 판매하고, 연대 기자회견을 개최하고, 서울 강남 도심에서 지지 집회와 행진을
-			진행했습니다. 노동자연대 청년학생그룹은 서울 신촌에서 지지 캠페인을 벌이기도
-			했습니다.</p>
+			진행했습니다. 노동자연대 청년학생그룹은 서울 신촌에서 지지 캠페인을 벌이기도 했습니다.</p>
 
-		<p>한편, 난민 인정을 요구하며 싸우고 있는 이집트 난민들에게 연대하는 활동도 하고 있습니다. 매주 ⟨노동자 연대⟩ 신문과 다양한 쟁점의 온라인 토론회도 꾸준히 진행했습니다.</p>
+		<p>한편, 난민 인정을 요구하며 싸우고 있는 이집트 난민들에게 연대하는 활동도 하고 있습니다. 매주 ⟨노동자 연대⟩ 신문을 발행하고 다양한 쟁점의 온라인 토론회도 꾸준히 진행했습니다.</p>
 
 		<p>어느덧 날씨가 많이 선선해지고 가을이 성큼 다가왔습니다. 모쪼록 후원회원 여러분들께서도 늘 건강하시길 바랍니다. 보내주시는 응원과 지지는 늘 큰 힘이 됩니다. 9월에도 노동자연대는 열심히
 			활동하겠습니다. 감사합니다.</p>
@@ -138,10 +141,7 @@
 		</h2>
 
 		<div class="content-box">
-			<h3 style="color: #DE4040; font-size: 1.2rem; line-height: 120%; margin-bottom: .5rem;">
-				하이트진로 화물 노동자 투쟁 지지·연대 활동
-			</h3>
-			<h3 style="margin-top: .5rem;">
+			<h3 style="margin-top: .5rem; margin-bottom: .5rem;">
 				생계비 위기에 맞서 싸우고 있는 하이트진로 화물 노동자 투쟁에 지지와 연대를 넓히기 위한 활동을 했습니다.
 			</h3>
 			<div style="clear: both; display: block; margin-bottom: 3rem;">
@@ -181,7 +181,7 @@
 				</p>
 			</div>
 			<div class="content-box">
-				<h3 style="margin-top: .5rem;">
+				<h3 style="margin-top: .5rem; margin-bottom: .5rem;">
 					노동자연대 청년학생그룹:<br> 서울 신촌역에서 진행한 하이트진로 노동자 투쟁 지지 집중 캠페인
 				</h3>
 				<div style="clear: both; display: block; margin-bottom: 3rem;">
@@ -204,12 +204,25 @@
 					</p>
 				</div>
 			</div>
+		</div>
 
-			<h3 style="margin-top: 1rem;">
+		<div class="content-box">
+			<h2 style="color: #DE4040; font-size: 18px; font-weight: bold; margin-bottom: 1rem;">함께 참가해요!</h2>
+			<div style="clear: both; display: block; margin-bottom: .5rem;">
+				<a href="https://workerssolidarity.org/p/27934" target="_blank">
+					<img style="width: 100%; border: 1px solid black;"
+					     src="https://workerssolidarity.org/wp-content/uploads/2022/08/20220831_045637.jpg"
+					     alt="하이트진로 화물 노동자 투쟁 지지한다: 생계비 위기 고통 전가말라 — 도심 집회와 행진">
+				</a>
+			</div>
+		</div>
+
+		<div class="content-box">
+			<h3 style="margin-top: 1rem; margin-bottom: .5rem;">
 				"난민 즉각 인정"을 요구하는 이집트 난민들의 투쟁에 연대했습니다.
 			</h3>
-			<p style="text-align: right; margin-bottom: 10px;">2022년 8월 21일</p>
-			<div style="clear: both; display: block; margin-bottom: 3rem;">
+			<p style="text-align: right; margin-bottom: 10px; margin-top: .5rem;">2022년 8월 21일</p>
+			<div style="clear: both; display: block; margin-bottom: 1rem;">
 				<img style="width: 100%; border: 1px solid black;"
 				     src="https://photo.wspaper.org/Photo/gallery/20220823_1/02cd914255ae8fb238c8d3021e5c5947.jpg"
 				     alt="이집트 난민 투쟁 연대">
@@ -364,7 +377,7 @@
 					</a>
 					<a href="https://wspaper.org/article/22305" target="_blank"
 					   style="text-decoration: none; line-height: 1.5;">
-						
+
 						👉 레닌의 제국주의론과 오늘날 의의 <small>이수현, 〈노동자 연대〉신문</small><br>
 					</a>
 				</p>
@@ -378,112 +391,58 @@
 			</div>
 
 
-			<p style="text-align: right; margin-bottom: 10px;">2022년 7월 21일</p>
+			<p style="text-align: right; margin-bottom: 10px;">2022년 8월 4일</p>
 			<div>
-				<a class="title-link" href="https://youtu.be/UKUIGKueaPQ" target="_blank">
+				<a class="title-link" href="https://youtu.be/qEio-MKW2yM" target="_blank">
 					<img class="image-box"
-					     src="https://wspaper.org/photos/2022/07/ee2722839de69ab70e9075b70aaf03cb-800xauto.jpg"
-					     alt="[온라인 토론회 영상] 악플방지법, 온라인폭력방지법… : 혐오표현, 국가 규제로 막을 수 있을까?">
+					     src="https://wspaper.org/photos/2022/08/ae24368ca3b872c45ad62274aa9bcca1-800xauto.png"
+					     alt="[온라인 토론회 영상] 탈북어민 강제북송 논란 — 마르크스주의 관점으로 보기">
 				</a>
 			</div>
 			<div style="margin-top: 0; margin-bottom: 1.5rem;">
 				<p class="margin-tiny  text-keep-words" style="font-size: 0.9rem;">
-					혐오표현은 차별받는 집단에게 모욕감을 주고 편견을 부추깁니다. 그래서 많은 사람들이 혐오표현을 규제해야 한다고 생각합니다.
-					악플방지법이나 온라인폭력방지법, 차별금지법 등이 관심을
-					받는 이유이죠.
+					전임 문재인 정부가 탈북어민을 강제북송한 일로 논란이 큽니다. 우파의 “반인륜 범죄” 운운은 추악한 위선이지만, 이 사건이 잔혹한 일인 것은 분명합니다. 범죄 혐의자는 강제로
+					추방해도 무방할까요? 남북 관계를 고려해 좌파가 탈북민 문제를 외면·침묵하는 건 옳을까요?
 				</p>
 				<p class="margin-tiny  text-keep-words" style="font-size: 0.9rem;">
-					국가와 온라인 사업자들의 규제로 혐오표현을 막을 수 있을까요? 혐오표현 규제가 악용될 위험은 없을까요? 최근 민주당이 혐오표현을 이유로 집시법 개악을 추진해 논란이
-					되기도 했죠.
-					혐오표현에 맞서는 효과적인 방법은 무엇일까요? 마르크스주의 관점에서 살펴봤습니다.</p>
+					탈북민은 늘 ‘순수성’을 의심받으며 심각한 편견과 차별에 시달립니다. 탈북어민 강제북송 논란을 흔히들 여야 정쟁이나 남북 관계 관점에서 보는 것과 달리, 저희 토론회에서는 민주적
+					권리와 노동계급의 단결이라는 관점에서, 그리고 난민 문제와도 연관 지어 살펴봤습니다.
+				</p>
+				<p class="margin-tiny" style="font-size: 0.9rem;">
+					<a href="https://wspaper.org/m/28167" target="_blank" style="text-decoration: none;">
+						👉 발제문 전문 보기
+					</a>
+				</p>
 				<p class="margin-tiny" style="font-size: 0.9rem;">
 					📖 추천 글<br>
-					<a href="https://marx21.or.kr/article/382" target="_blank"
+					<a href="https://wspaper.org/article/20447" target="_blank"
 					   style="text-decoration: none; line-height: 1.5;">
-						👉 혐오 표현, 국가 규제 그리고 표현의 자유 <small>양효영, 《마르크스21》 37호</small><br>
+						👉 인터뷰: 탈북민에게 직접 들은 남한 생활과 탈북민 차별 <small>김승주·강철구, 〈노동자 연대〉신문</small><br>
 					</a>
-					<a href="https://wspaper.org/article/27739" target="_blank"
+					<a href="https://marx21.or.kr/article/493" target="_blank"
 					   style="text-decoration: none; line-height: 1.5;">
-						👉 인공지능이 혐오 발언을 콕 집어 없앤다는데⋯ <small>양효영, 〈노동자 연대〉 415호</small><br>
+						👉 탈북민의 삶과 현실 알아보기 <small>임준형, 《마르크스21》 41호</small><br>
 					</a>
-					<a href="https://wspaper.org/article/13957" target="_blank"
+					<a href="https://wspaper.org/article/28150" target="_blank"
 					   style="text-decoration: none; line-height: 1.5;">
-						👉 자본주의 사회에서: 국가란 무엇인가? <small>최일붕, 〈레프트21〉 118호</small><br>
+						👉 난민에 대한 오해와 편견 바로잡기 <small>박이랑, 〈노동자 연대〉신문</small><br>
 					</a>
 				</p>
-				<p class="margin-tiny" style="font-size: 0.9rem;">
-					📖 추천 책<br>
-					<a href="https://chaekgalpi.com/archives/2329" target="_blank" style="text-decoration: none;">
-						👉 《계급, 소외, 차별》 <small>제프리 디스티 크로익스 외 지음, 책갈피</small><br>
-					</a>
-				</p>
-
 				<p class="margin-tiny" style="font-size: 0.9rem;">
 					📽️ 추천 영상<br>
-					<a href="https://youtu.be/1ZG5-TV7pTg" target="_blank"
+					<a href="https://www.youtube.com/watch?v=IraLbVD6G8c" target="_blank"
 					   style="text-decoration: none;">
-						👉 가짜뉴스, 검열, 표현의 자유<br>
+						👉 유우성 간첩 조작 사건과 이시원 공직기강비서관<br>
+					</a>
+				</p>
+				<p class="margin-tiny" style="font-size: 0.9rem;">
+					📽️ 추천 음원<br>
+					<a href="https://www.youtube.com/watch?v=E2ipemlUNfc" target="_blank"
+					   style="text-decoration: none;">
+						👉 왜 탈북민의 이주 자유를 옹호해야 하는가, 김영익<br>
 					</a>
 				</p>
 			</div>
-
-
-		</div>
-		<div class="content-box">
-			<h3 style="color: #DE4040; font-size: 16px; line-height: 120%;">
-				[노동자연대TV] 시사/이슈 톡톡
-				<small style="font-weight: normal; display: block; font-size: .6em;">
-					썸네일을 클릭하면 영상을 보실 수 있습니다.
-				</small>
-			</h3>
-			<div style="margin-bottom: 2rem;">
-				<a class="title-link" href="https://www.youtube.com/watch?v=1LHaSUsC8kg" target="_blank">
-					<img class="image-box"
-					     src="https://wspaper.org/photos/2022/06/0d18f0b5ef104d225084bd0cbe3f3145-800xauto.png"
-					     alt="[시사/이슈 톡톡] 윤석열 정부는 검찰공화국인가? 썸네일">
-				</a>
-				<p class="margin-tiny  text-keep-words" style="font-size: 0.9rem;">
-					최근 윤석열 정부가 촉법소년 나이 기준을 낮추는 데 속도를 내고 있습니다. 촉법소년은 위법을 저질러도 형사 처벌에서 제외되는 청소년을 일컫는데요. 정부는 촉법소년 연령 기준을
-					낮춰, 초등학생도 성인과 마찬가지로 형사 처벌할 수 있게 하려 합니다. 이를 둘러싸고 찬반 논란이 일고 있는데요.</p>
-				<p class="margin-tiny  text-keep-words" style="font-size: 0.9rem;">
-					소년 범죄가 “흉포화”, “저연령화”하고 있다는 정부와 언론의 주장을 어떻게 봐야 하는지, 처벌 강화는 왜 대안이 될 수 없는지, 일부 청소년들이 범죄에 이끌리는 이유는 무엇이고
-					문제를 해결하기 위해 진정으로 필요한 것은 무엇인지 요모조모 살펴봅니다.</p>
-			</div>
-		</div>
-	</div>
-
-	<div style="background-color: #F2f2f2; padding: 1em 5% 32px 5%;">
-		<div class="content-box">
-			<h3 style="color: #DE4040; font-size: 16px; line-height: 120%;">
-				[노동자연대TV] 기후 위기! 체제를 바꾸자 시리즈
-				<small style="font-weight: normal; display: block; font-size: .6em;">
-					썸네일을 클릭하면 영상을 보실 수 있습니다.
-				</small>
-			</h3>
-			<a class="title-link" href="https://youtu.be/2VECfu6MvvE" target="_blank">
-				<img class="image-box"
-				     src="https://wspaper.org/photos/2022/06/0c17a20033bc8d1e30787e9f380fdcb8-800xauto.jpg"
-				     alt="노동계급, 기후 위기 공범인가?">
-			</a>
-			<p class="margin-tiny  text-keep-words" style="font-size: 0.9rem; margin-bottom: 3rem;">
-				환경 운동 내에서는 노동자들도 환경 파괴의 공범이라는 인식이 강했습니다. 오늘날 이런 인식은 도전받고 있습니다. 기후정의라는 구호가 이를 잘 보여 주죠. 그러나 더 나아가 노동자들을 환경
-				운동에 참여시키는 것이 얼마나 중요한지 강조하는 목소리는 찾아보기 어렵습니다.
-				이번 7회에서는 노동자들이 기후 위기를 멈추는 데에서 어떤 구실을 할 수 있는지 살펴봅니다. 또 역사적 경험을 돌아보면서 노동자들이 기후 운동에 동참하게 하려면 어떻게 해야 하는지
-				살펴봅니다.
-			</p>
-
-			<a class="title-link" href="https://youtu.be/t4kbhAKjcjU" target="_blank">
-				<img class="image-box"
-				     src="https://wspaper.org/photos/2022/07/e2b1ef3309224dd292f678fcd382aee1-800xauto.jpg"
-				     alt="기후 경고 하루이틀 아닌데 왜 이 지경?">
-			</a>
-			<p class="margin-tiny  text-keep-words" style="font-size: 0.9rem; margin-bottom: 1rem;">
-				오늘날 농축산업은 환경 파괴와 기후 위기를 낳고 있습니다. 이런 환경 파괴와 기후 위기는 이번에는 농축산업의 기반을 크게 위협하고 있고요. 악순환이죠. 최근의 식량 위기는 이런 문제를 잘
-				보여 줍니다.
-				이번 8회 영상에서는 왜 자본주의에서 이런 악순환이 가속되는지 살펴봅니다. 또 자본주의적 농축산업이 기후 위기에 얼마나 큰 영향을 끼치는지, 또 오늘날 세계적으로 유행하는 채식 장려
-				운동이 기후 위기를 멈출 효과적 대안이 될 수 있는지도 따져봅니다.
-			</p>
-
 			<div class="margin-top-on-narrow" style="display: inline-block; width: 100%; text-align: center;">
 				<a style="font-size: 14px; text-decoration: none;"
 				   href="https://wspaper.org/s/y"
@@ -502,15 +461,37 @@
 		<div class="content-box">
 			<h2 style="color: #DE4040; font-size: 18px; font-weight: bold; margin-bottom: 35px;">노동자연대 온라인 토론회</h2>
 			<div style="clear: both; display: block; margin-bottom: .5rem;">
-				<a href="https://workerssolidarity.org/p/27677" target="_blank">
+				<a href="https://workerssolidarity.org/p/27843" target="_blank">
 					<img style="width: 100%; border: 1px solid black;"
-					     src="https://wspaper.org/photos/2022/07/029f3a69bb78d2877b8851f768f7178b-800xauto.jpeg"
-					     alt="탈북어민 강제북송 논란 - 마르크스주의 관점으로 보기">
+					     src="https://wspaper.org/photos/2022/08/d89c214e39163477923d79ef81bb18c4-800xauto.jpeg"
+					     alt="국경과 이민 통제를 지지해야만 하는가?">
 				</a>
 				<p class="margin-tiny" style="font-size: 0.9rem;  margin-bottom: .5rem;">
-					👉 참가 신청 링크: <a href="https://bit.ly/0804-meeting" target="_blank" style="text-decoration: none;">https://bit.ly/0804-meeting</a><br>
-					<span class="color-muted" style="font-size: 0.8rem;">※ 토론회 당일 오후 7시 30분에 유튜브 접속 링크를 보내드립니다.</span>
+					👉 참가 신청 링크: <a href="https://bit.ly/0901-meeting" target="_blank"
+					                style="text-decoration: none;">https://bit.ly/0901-meeting</a><br>
+					<span class="color-muted"
+					      style="font-size: 0.8rem;">※ 토론회 당일 오후 7시 30분에 유튜브 접속 링크를 보내드립니다.</span>
 				</p>
+			</div>
+			<div style="clear: both; display: block; margin-bottom: .5rem; margin-top: 3rem;">
+				<a href="https://workerssolidarity.org/p/27884" target="_blank">
+					<img style="width: 100%; border: 1px solid black;"
+					     src="https://wspaper.org/photos/2022/08/1726e081b529949abbf9b792436a0aa3-800xauto.jpeg"
+					     alt="당신이 알아야 할 현대 중국의 모든 것 – 마르크스주의 관점  [1강] 알고 있나요? 1925~27년 중국 노동자 혁명">
+				</a>
+				<p class="margin-tiny" style="font-size: 0.9rem;  margin-bottom: .5rem;">
+					👉 참가 신청 링크: <a href="https://bit.ly/0915-meeting" target="_blank"
+					                style="text-decoration: none;">https://bit.ly/0915-meeting</a><br>
+					<span class="color-muted"
+					      style="font-size: 0.8rem;">※ 토론회 당일 오후 7시 30분에 유튜브 접속 링크를 보내드립니다.</span>
+				</p>
+				<div style="margin-top: 2rem;">
+					<a href="https://workerssolidarity.org/p/27886" target="_blank">
+						<img style="width: 100%; border: 1px solid black;"
+						     src="https://wspaper.org/photos/2022/08/028d247de1ca5aa6ad7320b78549092b-800xauto.jpeg"
+						     alt="당신이 알아야 할 현대 중국의 모든 것 – 마르크스주의 관점">
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -521,25 +502,25 @@
 		<h2 style="color: #DE4040; font-size: 18px; font-weight: bold; margin-bottom: 35px;">〈노동자 연대〉 신문</h2>
 		<div style="clear: both; display: block;">
 			<div class="float-img--left">
-				<a href="https://wspaper.org/publication-issue/695">
+				<a href="https://wspaper.org/publication-issue/700">
 					<img style="width: 100%; border: 1px solid #CDCDCD;"
-					     src="https://wspaper.org/photos/2022/07/80d2bb299897f5fb68f97a817defd952-376x538.jpg"
-					     alt="〈노동자 연대〉 426호">
+					     src="https://wspaper.org/photos/2022/08/1decf8889dae8726473a0904579f7104-376x538.jpg"
+					     alt="〈노동자 연대〉 431호">
 				</a>
 				<div class="text-center">
-					<h3 style="font-size: 16px; font-weight: normal; margin-bottom: 10px;">〈노동자 연대〉426호</h3>
-					<p style="font-size: 14px; margin-top: 0; color: #888;">2022년 7월 20일 ~ 8월 2일</p>
+					<h3 style="font-size: 16px; font-weight: normal; margin-bottom: 10px;">〈노동자 연대〉431호</h3>
+					<p style="font-size: 14px; margin-top: 0; color: #888;">2022년 8월 31일 ~ 9월 20일</p>
 				</div>
 			</div>
 			<div class="float-img--right">
-				<a href="https://wspaper.org/publication-issue/694">
+				<a href="https://wspaper.org/publication-issue/699">
 					<img style="width: 100%; border: 1px solid #CDCDCD;"
-					     src="https://wspaper.org/photos/2022/07/895839ffaf3e871698aa372e9412de3d-376xauto.jpg"
-					     alt="〈노동자 연대〉425호">
+					     src="https://wspaper.org/photos/2022/08/1659c64077f071c8c51a9c8c3718900f-376x538.jpg"
+					     alt="〈노동자 연대〉430호">
 				</a>
 				<div class="text-center">
-					<h3 style="font-size: 16px; font-weight: normal; margin-bottom: 10px;">〈노동자 연대〉425호</h3>
-					<p style="font-size: 14px; margin-top: 0; color: #888;">2022년 7월 13일 ~ 19일</p>
+					<h3 style="font-size: 16px; font-weight: normal; margin-bottom: 10px;">〈노동자 연대〉430호</h3>
+					<p style="font-size: 14px; margin-top: 0; color: #888;">2022년 8월 24일 ~ 30일</p>
 				</div>
 			</div>
 		</div>
@@ -604,41 +585,6 @@
 			<div style="clear: both"></div>
 		</div>
 
-
-		<div class="content-box">
-			<a style="font-size: 24px; text-decoration: none; color: black;"
-			   href="https://marx21.or.kr/" target="_blank">
-				<img style="width: 27%; float: left; margin-right: 5%; margin-bottom: 5px;"
-				     src="https://marx21.or.kr/photos/2022/04/9770c07441766ebdbae37a2cdaf6b717-600xauto.png"
-				     alt="《마르크스21》 43호 (2022년 봄)">
-			</a>
-			<a style="font-size: 24px; text-decoration: none; color: black;" href="https://marx21.or.kr/"
-			   target="_blank">
-				<h3 style="margin: 0 0 1rem 0; font-size: 22px; font-weight: normal;">
-					<b>《마르크스21》 43호 <small>(2022년 봄)</small></b><br>
-				</h3>
-			</a>
-			<p class="text-keep-words  color-muted">
-				<small>이번 호에 모두 아홉 편의 글을 실었다.
-					토마시-텡글리 에번스의 ‘스탈린주의의 기다란 그림자’는 근래에 영국에서 스탈린주의가 부활한 배경을 분석한다. 에번스는 영국의 특수한 상황 — 제러미 코빈으…</small>
-			</p>
-			<p class="text-keep-words" style="font-size: .8rem;">
-				※ 이번 호부터 《마르크스21》은 격월간지에서 계간지로 바뀝니다. 심층적인 마르크스주의 이론 글들을 더 많이 싣기 위해 노력하겠습니다.
-			</p>
-			<div class="text-center">
-				<div style="display: inline-block; margin-bottom: .5rem;  margin-right: .5rem;">
-					<a class="btn  btn--pink  btn--round" href="https://marx21.or.kr/buy/form" target="_blank">
-						낱권 구입
-					</a>
-				</div>
-				<div style="display: inline-block;">
-					<a class="btn  btn--pink  btn--round" href="https://marx21.or.kr/subs" target="_blank">
-						정기구독 신청
-					</a>
-				</div>
-			</div>
-			<div style="clear: both;"></div>
-		</div>
 		<div class="content-box" style="padding-bottom: 1rem;">
 			<div style="margin-bottom: 3rem;">
 				<a href="https://chaekgalpi.com/archives/4045" class="no-deco" target="_blank">
@@ -658,6 +604,26 @@
 			</div>
 			<div style="clear: both"></div>
 		</div>
+
+		<div class="content-box">
+			<a style="font-size: 24px; text-decoration: none; color: black;"
+			   href="https://chaekgalpi.com/archives/3876" target="_blank">
+				<img style="width: 27%; float: left; margin-right: 5%; margin-bottom: 5px;"
+				     src="https://wspaper.org/photos/book-cover-31059-200xauto.jpg"
+				     alt="미국 사회주의자가 들려주는: 오늘날 마르크스주의의 의미 - 공산당 선언부터 기후 위기까지">
+			</a>
+			<a style="font-size: 24px; text-decoration: none; color: black;" href="https://chaekgalpi.com/archives/3876"
+			   target="_blank">
+				<h3 style="margin: 0 0 1rem 0; font-size: 22px; font-weight: normal;">
+					<small>미국 사회주의자가 들려주는</small><br>
+					<b>오늘날 마르크스주의의 의미</b><br>
+					<small>공산당 선언부터 기후 위기까지</small>
+				</h3>
+			</a>
+			<p style="font-size: 16px; margin: 0;">폴 더마토 지음 | 이원웅 옮김 | 624쪽 | 24,000원 | 책갈피</p>
+			<div style="clear: both;"></div>
+		</div>
+
 		<div class="content-box" style="padding-bottom: 1rem;">
 			<div style="margin-bottom: 3rem;">
 				<a href="https://workerssolidarity.org/p/book/26700" class="no-deco" target="_blank">

@@ -116,6 +116,10 @@ if ($_GET['t'] != 'St6v7') {
         <div style="background: url('http://workerssolidarity.org/tmp/sponletter/2016-04/images/header.png') 0 0 no-repeat; width: 100%; height: 70px;">
             <p style="margin: 0; text-align: right; color: white; padding: 6px 10px 0 0;">2021년 8월</p>
         </div>
+	    <div class="text-center" style="margin-top: 16px; width: 100%; overflow: hidden;">
+		    		<img style="max-width: 100%;"
+		    		     src="https://photo.wspaper.org/Photo/gallery/20220824_1/3d24f7e1399705b14f8edb81fa3fd318.jpg" alt="">
+	    </div>
     </div>
     <div class="text-keep-words" style="padding: 1em 5% 1em 5%;">
         <p style="color: #DE4040; font-weight: bold;">
