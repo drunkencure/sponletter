@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ff78d8-0af4-438e-92ef-5f9955243a41" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/2023-05/images/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023-05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023-05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2023-05/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685455569322</updated>
       <workItem from="1685455570900" duration="2594000" />
+      <workItem from="1685518489400" duration="62000" />
     </task>
     <servers />
   </component>
